@@ -34,14 +34,12 @@ I have an analytical and inquisitive profile, driven by the curiosity to underst
 ![Polars](https://img.shields.io/badge/polars-2C2D72?style=for-the-badge&logo=polars&logoColor=white)
 
 
-**☁️ Cloud & Infrastructure**
+**🧠 Data Science & Analytics**
 <br/>
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)]
-[![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)]
-[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)]
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)]
-[![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)]
-[![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)]
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge)
+![Optimization](https://img.shields.io/badge/Optimization-8A2BE2?style=for-the-badge)
+![KPI](https://img.shields.io/badge/KPIs-FF6F00?style=for-the-badge)
 
 </td>
 <td valign="top" width="50%">
