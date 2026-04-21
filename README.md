@@ -19,10 +19,10 @@ I have an analytical and inquisitive profile, driven by the curiosity to underst
 
 **🎯 Leadership & Strategy**
 <br/>
-[![DevEx](https://img.shields.io/badge/Developer_Experience-FF69B4?style=for-the-badge&logo=dev.to&logoColor=white)]
-[![Platform Engineering](https://img.shields.io/badge/Platform_Engineering-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)]
-[![Mentoring](https://img.shields.io/badge/Mentoring-00BFA5?style=for-the-badge&logo=google-classroom&logoColor=white)]
-[![Architecture](https://img.shields.io/badge/Architecture-FFD700?style=for-the-badge&logo=diagrams.net&logoColor=black)]
+![DevEx](https://img.shields.io/badge/Developer_Experience-FF69B4?style=for-the-badge&logo=dev.to&logoColor=white)
+![Platform Engineering](https://img.shields.io/badge/Platform_Engineering-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
+![Mentoring](https://img.shields.io/badge/Mentoring-00BFA5?style=for-the-badge&logo=google-classroom&logoColor=white)
+![Architecture](https://img.shields.io/badge/Architecture-FFD700?style=for-the-badge&logo=diagrams.net&logoColor=black)
 
 <br/>
 
