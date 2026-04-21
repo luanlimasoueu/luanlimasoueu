@@ -1,19 +1,7 @@
-## Hi there 👋
+A professional interested in the intersection of technology, business, and people. I believe in using technology as a means to improve processes, generate value, and drive results, always focusing on the needs of people and stakeholders.
 
-<!--
-**luanlimasoueu/luanlimasoueu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have an analytical and inquisitive profile, driven by the curiosity to understand problems, structure ideas, and transform concepts into practical solutions and consistent results.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## Statistics
 
 <p align="center">
@@ -26,6 +14,4 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanlimasoueu/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luanemerson8@gmail.com)
 
-
-https://www.linkedin.com/in/luanlimasoueu/
 
