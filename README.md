@@ -17,14 +17,21 @@ I have an analytical and inquisitive profile, driven by the curiosity to underst
   <tr>
     <td valign="top" width="50%">
 
-**🎯 Data & Programming**
+**💻 Languages**
 <br/>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
 <br/>
+
+**⚙️ Data Engineering**
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/pyspark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/polars-2C2D72?style=for-the-badge&logo=polars&logoColor=white)
+
 
 **☁️ Cloud & Infrastructure**
 <br/>
