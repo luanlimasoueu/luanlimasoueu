@@ -41,33 +41,29 @@ I have an analytical and inquisitive profile, driven by the curiosity to underst
 ![Optimization](https://img.shields.io/badge/Optimization-8A2BE2?style=for-the-badge)
 ![KPI](https://img.shields.io/badge/KPIs-FF6F00?style=for-the-badge)
 
+**🧠 Databases & Warehouse**
+<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Snowflake](https://img.shields.io/badge/snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+
 </td>
 <td valign="top" width="50%">
 
-**💻 Languages & Frameworks**
+**☁️ Cloud & DevOps**
 <br/>
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)]
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)]
-[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)]
-[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)]
-[![Laravel](https://img.shields.io/badge/laravel-%23ff2d20.svg?style=for-the-badge&logo=laravel&logoColor=white)]
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)]
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
+
+**📊 Business Intelligence**
 <br/>
 
-**🤖 AI & Agentic Workflows**
-<br/>
-[![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=langchain&logoColor=white)]
-[![ADK](https://img.shields.io/badge/ADK-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)]
-
-<br/>
-
-**🛠️ Other Tools**
-<br/>
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)]
-[![Drupal](https://img.shields.io/badge/Drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)]
+![Power BI](https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Amazon QuickSight](https://img.shields.io/badge/QuickSight-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 </td>
 </tr>
