@@ -17,7 +17,7 @@ I have an analytical and inquisitive profile, driven by the curiosity to underst
   <tr>
     <td valign="top" width="50%">
 
-**🎯 Backend **
+**🎯 Backend**
 <br/>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
