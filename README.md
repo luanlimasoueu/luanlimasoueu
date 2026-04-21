@@ -17,7 +17,7 @@ I have an analytical and inquisitive profile, driven by the curiosity to underst
   <tr>
     <td valign="top" width="50%">
 
-**🎯Data & Programming**
+**🎯 Data & Programming**
 <br/>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
