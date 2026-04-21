@@ -41,15 +41,17 @@ I have an analytical and inquisitive profile, driven by the curiosity to underst
 ![Optimization](https://img.shields.io/badge/Optimization-8A2BE2?style=for-the-badge)
 ![KPI](https://img.shields.io/badge/KPIs-FF6F00?style=for-the-badge)
 
+
+
+</td>
+<td valign="top" width="50%">
+
 **🧠 Databases & Warehouse**
 <br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
-
-</td>
-<td valign="top" width="50%">
 
 **☁️ Cloud & DevOps**
 <br/>
