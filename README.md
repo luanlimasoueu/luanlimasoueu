@@ -21,3 +21,11 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=luanlimasoueu&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="Luan's Top Languages" height="180" />
 </p>
 
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanlimasoueu/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luanemerson8@gmail.com)
+
+
+https://www.linkedin.com/in/luanlimasoueu/
+
