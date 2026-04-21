@@ -17,16 +17,12 @@ I have an analytical and inquisitive profile, driven by the curiosity to underst
   <tr>
     <td valign="top" width="50%">
 
-**🎯 Backend**
+**🎯Data & Programming**
 <br/>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-![DevEx](https://img.shields.io/badge/Developer_Experience-FF69B4?style=for-the-badge&logo=dev.to&logoColor=white)
-![Platform Engineering](https://img.shields.io/badge/Platform_Engineering-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
-![Mentoring](https://img.shields.io/badge/Mentoring-00BFA5?style=for-the-badge&logo=google-classroom&logoColor=white)
-![Architecture](https://img.shields.io/badge/Architecture-FFD700?style=for-the-badge&logo=diagrams.net&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 <br/>
 
