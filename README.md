@@ -1,3 +1,5 @@
+## About Me
+
 A professional interested in the intersection of technology, business, and people. I believe in using technology as a means to improve processes, generate value, and drive results, always focusing on the needs of people and stakeholders.
 
 I have an analytical and inquisitive profile, driven by the curiosity to understand problems, structure ideas, and transform concepts into practical solutions and consistent results.
