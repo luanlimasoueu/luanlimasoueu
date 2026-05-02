@@ -1,3 +1,7 @@
+<h2 align="left">
+  Hi there! I’m Luan Lima
+</h2>
+
 ## About Me
 
 A professional interested in the intersection of technology, business, and people. I believe in using technology as a means to improve processes, generate value, and drive results, always focusing on the needs of people and stakeholders.
